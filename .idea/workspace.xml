@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa5893e1-f553-439e-bc55-2d09c0eb10bd" name="Default Changelist" comment="" />
+    <list default="true" id="aa5893e1-f553-439e-bc55-2d09c0eb10bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/wontrun/printed.html" beforeDir="false" afterPath="$PROJECT_DIR$/printed/printed.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -41,7 +43,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wontrun/printed.html">
+        <entry file="file://$PROJECT_DIR$/printed/printed.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="307">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
@@ -74,6 +76,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -93,6 +98,7 @@
     <option name="width" value="1026" />
     <option name="height" value="557" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -109,7 +115,7 @@
             <path>
               <item name="levelup advancedjs ass2" type="b2602c69:ProjectViewProjectNode" />
               <item name="levelup advancedjs ass2" type="462c0819:PsiDirectoryNode" />
-              <item name="httprequest" type="462c0819:PsiDirectoryNode" />
+              <item name="printed" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,16 +156,15 @@
       <option name="presentableId" value="Default" />
       <updated>1549326099349</updated>
       <workItem from="1549326106256" duration="4074000" />
-      <workItem from="1549341105618" duration="4508000" />
+      <workItem from="1549341105618" duration="4875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8582000" />
+    <option name="totallyTimeSpent" value="8949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18615042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -191,7 +196,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wontrun/printed.html">
+    <entry file="file://$PROJECT_DIR$/printed/printed.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
