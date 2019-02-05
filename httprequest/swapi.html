@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Fetch from SwapiApi</title>
+</head>
+<body>
+
+<h1 id="content">...Loading</h1>
+<button id="get-info">Click to Fetch Information</button>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script type="application/javascript">
+    (function(){
+        document.getElementById("get-info")
+            .addEventListener("click", function (){
+
+                axios.get('https://swapi.co/api/starships/5/')
+                    .then(function (result){
+                        console.log(result);
+                        let model = result.data['model'];
+                        document.getElementById("content").innerHTML = `The model is: ${model}`;
+                    })
+                    .catch(function(error){
+                        console.error(error)
+                    })
+
+            })
+    })()
+</script>
+</body>
+</html>
